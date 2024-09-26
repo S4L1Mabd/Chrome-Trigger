@@ -40,10 +40,10 @@ This project focuses on remote shellcode injection targeting Chrome browser proc
 
 2. **Compile the Code**: Use Visual Studio or a compatible compiler to build the executable.
 
-3. **Run the Injection**: Inject the encrypted payload into a target Chrome process.
+3. **Run the Injection And follow the instructions **: Inject the encrypted payload into a target Chrome process.
 
     ```bash
-    Chrometrigger.exe <PID> <TID>
+    Chrometrigger.exe 
     ```
 
 4. **Decryption**: The injected payload is decrypted in memory, allowing it to execute in the target process.

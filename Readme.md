@@ -35,7 +35,7 @@ This project focuses on remote shellcode injection targeting Chrome browser proc
 1. **Clone the Repository**: Download the project from GitHub.
 
     ```bash
-    git clone https://github.com/YourUsername/Chrometrigger.git
+    git clone https://github.com/S4L1Mabd/Chrometrigger.git
     ```
 
 2. **Compile the Code**: Use Visual Studio or a compatible compiler to build the executable.
